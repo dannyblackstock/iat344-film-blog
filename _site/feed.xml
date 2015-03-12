@@ -5,9 +5,40 @@
     <description>Harmony is free responsive jekyll theme.</description>
     <link>http://dannyblackstock.github.io/iat344-film-blog/iat344-film-blog/</link>
     <atom:link href="http://dannyblackstock.github.io/iat344-film-blog/iat344-film-blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Feb 2015 22:41:55 -0800</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2015 22:41:55 -0800</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2015 15:37:51 -0700</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2015 15:37:51 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Lighting Workshop</title>
+        <description>&lt;p&gt;In the in-class workshop today, we reviewed how to create a basic three-point lighting setup using a small and large lighting kit, as well as reflectors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/iat344-film-blog/assets/img/3-point-small.jpg&quot; alt=&quot;Using small 3 point lighting kit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/iat344-film-blog/assets/img/reflector.jpg&quot; alt=&quot;Using a reflector&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We then looked at lighting a green screen, and how distance from the screen can reduce spill onto the subject. Reviewing how to setup all the stands, wiring, and lights was very helpful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/iat344-film-blog/assets/img/green-screen-3-point.jpg&quot; alt=&quot;Using 3 point lighting with green screen lights&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- [Jekyll][jekyll] is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. Here is a little quote from the official website:
+
+&gt; It takes a template directory containing raw text files in various formats, runs it through [Markdown][markdown] (or [Textile][textile]) and Liquid converters, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind [GitHub Pages][github-pages], which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+&gt; - jekyllrb.com
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+ --&gt;
+</description>
+        <pubDate>Sun, 25 Jan 2015 07:08:45 -0800</pubDate>
+        <link>http://dannyblackstock.github.io/iat344-film-blog/iat344-film-blog/lighting/greenscreen/2015/01/25/storyboarding/</link>
+        <guid isPermaLink="true">http://dannyblackstock.github.io/iat344-film-blog/iat344-film-blog/lighting/greenscreen/2015/01/25/storyboarding/</guid>
+        
+        
+        <category>lighting</category>
+        
+        <category>greenscreen</category>
+        
+      </item>
     
       <item>
         <title>Sample post from harmony</title>
