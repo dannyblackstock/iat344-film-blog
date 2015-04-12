@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lighting Workshop"
-date:   2015-01-25 15:08:45
+date:   2015-01-26 15:08:45
 description: Reviewed basics of lighting in an in-class workshop.
 categories:
 - lighting

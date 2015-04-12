@@ -11,16 +11,14 @@ url: http://dannyblackstock.github.io/iat344-film-blog
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Harmony
+  name: Making Movie Magic
   # Little description about your site
-  description: Harmony is free responsive jekyll theme.
+  description: Danny's IAT 344 Film Blog
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-   Harmony is a free responsive jekyll theme by Gayan Virajith
-   and Maheshika Lakmali. Sourced on Github - 
-   https://github.com/gayanvirajith/harmony
+   Danny's IAT 344 Film Blog
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Danny Blackstock
@@ -33,7 +31,7 @@ harmony:
   # Profile links, leave blank to ignore
   social: 
     github: 
-    twitter: 
+    twitter: the_blackstock
     facebook: 
     gplus: 
     dribble: 

@@ -4,18 +4,15 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+![Photo of me]({{site.baseurl}}/assets/img/profile-pic.png)
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Hi, I’m Danny Blackstock. I am a senior student pursuing a B.Sc. at the School of Interactive Arts and Technology. I have a strong interest and skills in user interface design, web development, and videography.
+
+I've enjoyed making movies since I was a kid, and aimed to improve my filmmaking knowledge and skills further by taking IAT 344. By creating a short film with visual effects, and a documentary, I've gained skills in collaborating with clients to create a video project, editing a documentary to tell a story, operating lavalier microphones and other audio equipment, working with practical green-screen effects, and more.
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
-
+Visit my [website][portfolio], check out my [YouTube][YouTube], [Vimeo][Vimeo], or [Twitter][Twitter].
 
 [tf]: http://template-factory.nl
 [m]: http://mearch.com
@@ -24,4 +21,7 @@ Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say
 [jekyll]: http://jekyllrb.com
 [github]: https://github.com/gayanvirajith
 [google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[twitter]: https://twitter.com/the_blackstock
+[portfolio]: http://www.dannyblackstock.com
+[YouTube]: https://www.youtube.com/channel/UCiDSYIZbv6ebfw_XnCV9mWw
+[Vimeo]: https://vimeo.com/dannyblackstock
