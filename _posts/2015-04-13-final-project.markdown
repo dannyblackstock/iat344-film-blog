@@ -42,7 +42,7 @@ It was challenging to shoot in such low lighting conditions, but we made do, sin
 
 After the interviews and lab footage were done, I helped shoot more b-roll of different modern buildings, an architectural model, people moving through various spaces, and context shots.
 
-![Filming B-roll 1](/iat344-film-blog/assets/img/linda-filming-2.jpg)
+![Filming B-roll 1](/iat344-film-blog/assets/img/b-roll.jpg)
 ![Filming B-roll 2](/iat344-film-blog/assets/img/linda-filming-1.jpg)
 
 I edited a rough cut of the film to show to Dr. Riecke and Jacob about a week before the final presentation in class. I found that editing a documentary was much more work than narrative films I had done before. Going through multiple hours of interviews to try to construct an interesting story in five minutes was very challenging.
