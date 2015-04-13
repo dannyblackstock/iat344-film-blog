@@ -4,9 +4,10 @@ title:  "Storyboarding"
 date:   2015-04-11 23:20:00
 description: Created storyboards to plan what to shoot ahead of time
 categories:
-- storyboarding
 - planning
 - preproduction
+- storyboarding
+
 ---
 
 After creating a shot list with the group, I worked with Justin to take photos and combine them into a rough storyboard of the types of shots we wanted for our documentary. I tried to come up with shots I thought would work well with Dr. Riecke's story.
