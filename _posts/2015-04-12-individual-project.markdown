@@ -15,7 +15,7 @@ categories:
   <iframe width="100%" height="auto" src="https://www.youtube.com/embed/pUo4qBW0UTA?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-When creating my individual project, I knew we were required to use a chroma keying effect, so I tried to create a short comedy narrative, since I had experience doing that type of film. I wanted to use the effect to add something funny to my film, so I came up with this idea after watching this FilmRiot episode:
+When creating my individual project, I knew we were required to use a chroma keying effect, so I tried to create a short comedy narrative, since I had experience doing that type of film. I wanted to use the effect to add something funny to my film, so I came up with this idea after watching this Film Riot episode:
 
 <div class="videoWrapper">
   <iframe width="100%" height="auto" src="https://www.youtube.com/embed/bqIEnkwd54s?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -31,6 +31,8 @@ In post-production, I added letterboxing to make the film appear more cinematic,
 ![Marcus close up before](/iat344-film-blog/assets/img/individual-3.jpg)
 ![Marcus close up after](/iat344-film-blog/assets/img/individual-4.jpg)
 
-Here is the storyboard I drew for the project: 
+I recorded sound with my [Tascam DR-05][tascam]. Here is the storyboard I drew for the project: 
 
 ![Individual project storyboard](/iat344-film-blog/assets/img/individual-storyboard.jpg)
+
+[tascam]: http://tascam.com/product/dr-05/

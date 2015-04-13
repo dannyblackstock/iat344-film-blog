@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi, I’m Danny Blackstock. I am a senior student pursuing a B.Sc. at the School of Interactive Arts and Technology. I have a strong interest and skills in user interface design, web development, and videography.
 
-I've enjoyed making movies since I was a kid, and aimed to improve my filmmaking knowledge and skills further by taking IAT 344. By creating a short film with visual effects, and a documentary, I've gained skills in collaborating with clients to create a video project, editing a documentary to tell a story, operating lavalier microphones and other audio equipment, working with practical green-screen effects, and more.
+I've enjoyed making movies since I was a kid, and aimed to improve my film-making knowledge and skills further by taking IAT 344. By creating a short film with visual effects, and a documentary, I've gained skills in collaborating with clients to create a video project, editing a documentary to tell a story, operating lavalier microphones and other audio equipment, working with practical green-screen effects, and more.
 
 ### Contact me
 
