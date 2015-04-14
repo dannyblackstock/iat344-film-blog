@@ -21,7 +21,7 @@ After the pre-production process of storyboarding, meeting with our interviewees
 
 ![Scouting a location with Jake](/iat344-film-blog/assets/img/scouting-smaller.jpg)
 
-When we interviewed Jacob Freiburg, we had to switch between three different cameras, which unfortunately resulted in different looking footage from each. I colour corrected to the more bluish-green footage for the final submission in this course, which I will fix for the next iterations of the video.
+When we interviewed Jacob Freiberg, we had to switch between three different cameras, which unfortunately resulted in different looking footage from each. I colour corrected to the more bluish-green footage for the final submission in this course, which I will fix for the next iterations of the video.
 
 ![Jake interview shot 1](/iat344-film-blog/assets/img/jake-1.jpg)
 ![Jake interview shot 2](/iat344-film-blog/assets/img/jake-2.jpg)
